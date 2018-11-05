@@ -1,6 +1,6 @@
 {
   "name": "minimal-node-web-server",
-  "version": "8",
+  "version": "10",
   "description": "Containerized Minimal Node Web Server",
   "main": "index.js",
   "config": {
